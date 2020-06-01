@@ -1,6 +1,12 @@
 # Data-Analysis-with-Python
 Data Analysis is the process of collecting and organizing data in order to draw helpful conclusions from it.
-The Process of Data Analysis uses analytical and logical reasoningvto gain information from the data.
+The Process of Data Analysis uses analytical and logical reasoning to gain information from the data.
+
+## This Repository consists of:-
+1. Data Analysis with Numpy
+2. Data Analysis with Pandas
+3. Data PreProcessing
+4. Exploratory Data Analysis
 
 Data Analysis with Numpy file consists of:-
 1. Comparing Python List vs Numpy array
